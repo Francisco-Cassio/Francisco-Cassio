@@ -32,6 +32,6 @@ Fascinado pelo mundo da tecnologia e buscando cada vez mais aprofundar-me nesta 
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Francisco-Cassio&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Francisco-Cassio's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Francisco-Cassio&layout=compact&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+## 📊 GitHub Stats
+![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=Francisco-Cassio&theme=ayu)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pranesh-2005&layout=donut)](https://github.com/Pranesh-2005/github-readme-stats)
