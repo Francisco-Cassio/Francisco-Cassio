@@ -63,5 +63,4 @@ Tecnologias com as quais já tive contato prático pontual ou base de estudo:
 
 ## 🛜 Conecte-se Comigo
 [![LinkedIn](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg)](https://www.linkedin.com/in/francisco-de-c%C3%A1ssio-da-silva-mour%C3%A3o-j%C3%BAnior-860574367/)
-[![GitHub](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg)](https://github.com/Francisco-Cassio)
 [![Gmail](https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail1.svg)](mailto:franciscodecassiomourao@gmail.com)
